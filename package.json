@@ -1,6 +1,7 @@
 {
   "name": "speedrun-deploy-invernizzi",
   "version": "0.1.0",
+  "homepage": "https://giacomoinvernizzi.github.io/speedrun-deploy-invernizzi/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
