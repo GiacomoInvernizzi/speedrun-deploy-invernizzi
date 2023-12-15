@@ -67,6 +67,9 @@ jobs:
               with:
                 static_site_generator: next
 
+            - name: install next.js
+              run: npm install next react react-dom
+
             - name: install dependencies
               run: npm install
 
